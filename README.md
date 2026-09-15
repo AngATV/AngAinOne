@@ -84,16 +84,18 @@ L'app reprend, étape par étape, ce qu'il faisait à la main chez les gens : le
 
 <div align="center">
 
-## Prêt ?
+## Essaie — tu ne risques rien
 
 ### [⬇ Télécharger AngAinOne](https://github.com/AngATV/AngAinOne/releases/latest)
 
-Un seul fichier à lancer. Installe, connecte-toi, c'est parti — les mises à jour se font toutes seules ensuite.
+Installe, connecte-toi, lance une optimisation. Si ça ne te plaît pas, tu remets tout comme avant en un clic — et si tu désinstalles, il ne reste rien.
 
-<sub>Windows 11 · un fichier `.sha256` accompagne l'installeur si tu veux vérifier que ton téléchargement est intact.</sub>
+C'est gratuit. Et après plus de 20 ans à régler des PC, je pense sincèrement que tu vas sentir la différence. — **AngA**
+
+<sub>Windows 11 · un fichier `.sha256` accompagne l'installeur pour vérifier ton téléchargement.</sub>
 
 <br>
 
-Fait par des joueurs, pour des joueurs · **[anga.tv](https://anga.tv)** · AngATV
+**[anga.tv](https://anga.tv)**
 
 </div>
