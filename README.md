@@ -60,23 +60,22 @@ Les **plans payants** ne débloquent que les **extras en ligne**, pour aller plu
 - 🔬 **Analyses avancées** : diagnostic des à-coups, comparaisons approfondies
 - 🖥️ **Outils multi-PC** (gérer et piloter plusieurs machines à distance) et **support prioritaire**
 
+Ces extras sont regroupés dans les plans **Pro**, **Streamer** (toute la pile OBS : plugins, scènes, sauvegardes cloud) et **Entreprise** (multi-PC). Détail et tarifs sur **[anga.tv](https://anga.tv)**.
+
 > En clair : **optimiser ton PC, c'est gratuit.** Tu paies seulement si tu veux **sauvegarder, synchroniser et suivre** tout ça dans le temps et entre plusieurs machines.
 
 ---
 
-## Qui est derrière AngAinOne
+## D'où vient AngAinOne
 
-Salut, moi c'est **AngA**. Ça fait **plus de 20 ans** que je règle, dépanne et optimise des PC — et une grande partie à le faire pour les autres.
+AngAinOne n'est pas un énième « booster » sorti de nulle part. C'est la méthode d'**[AngA](https://anga.tv)**, qui optimise des PC **depuis plus de 20 ans** — pour des milliers de joueurs et de créateurs, en live et à travers des **tutos d'optimisation** suivis par toute une communauté.
 
-J'ai optimisé les machines de **milliers de joueurs**, dont certains des **plus gros créateurs sur Twitch et YouTube**. Tout ce que je faisais à la main, réglage par réglage, chez les gens : c'est exactement ce qu'AngAinOne fait pour toi aujourd'hui, en quelques clics — et sans rien casser.
-
-Sur mes chaînes, je partage depuis des années des **tutos d'optimisation de A à Z** selon ton usage, et une équipe donne un coup de main pour régler les PC au cas par cas. **AngAinOne, c'est l'aboutissement de tout ça : mon métier, dans une app.**
+L'app reprend, étape par étape, ce qu'il faisait à la main chez les gens : les mêmes réglages, la même prudence — **rien d'irréversible** — désormais à la portée de tout le monde.
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-tutos%20d'optimisation-ff0000)](https://www.youtube.com/channel/UCTn6N5YQG0LzVWt7qST7G1Q)
+[![YouTube](https://img.shields.io/badge/YouTube-les%20tutos-ff0000)](https://www.youtube.com/channel/UCTn6N5YQG0LzVWt7qST7G1Q)
 [![Twitch](https://img.shields.io/badge/Twitch-en%20live-9146ff)](https://www.twitch.tv/anga_tv)
-[![X](https://img.shields.io/badge/X-@AngA__TV-1f2733)](https://x.com/AngA_TV)
 [![anga.tv](https://img.shields.io/badge/site-anga.tv-2fa88a)](https://anga.tv)
 
 </div>
