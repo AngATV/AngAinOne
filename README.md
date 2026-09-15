@@ -41,10 +41,26 @@ Un diagnostic clair de chaque réglage, et quand ton PC plante, AngAinOne te dit
 
 ## Pourquoi tu peux y aller les yeux fermés
 
-- **C'est gratuit.**
+- **Toute l'optimisation est gratuite.** Pas de version bridée (voir juste en dessous).
 - **Tu peux tout annuler.** Ce que l'app change, un clic le remet comme avant. Impossible de casser ton Windows.
 - **C'est sûr.** L'app est signée — Windows sait qu'elle vient bien de nous — elle se met à jour toute seule, et n'installe jamais rien dans ton dos.
 - **Tes données te suivent.** Connecte-toi et retrouve tes tests, tes sessions de jeu et tes presets sur [anga.tv](https://anga.tv), depuis n'importe quel PC.
+
+---
+
+## Gratuit. Vraiment.
+
+**Toute l'optimisation est gratuite, pour toujours.** Les réglages Windows, le debloat, les pilotes GPU, les mesures en jeu, le diagnostic, la maintenance, le réseau, tes sauvegardes en local — **tout ce qui rend ton PC plus rapide ne coûte rien**, et sans version « bridée ».
+
+Les **plans payants** ne débloquent que les **extras en ligne**, pour aller plus loin :
+
+- ☁️ **Sauvegarde dans le cloud** de tes configs et de tes sessions, avec **restauration sur un autre PC** en un clic
+- 🔄 **Synchronisation** de tes presets et de tes réglages GPU entre tous tes PC
+- 📈 **Historique complet** de tes sessions de jeu et de tes diagnostics, sans limite
+- 🔬 **Analyses avancées** : diagnostic des à-coups, comparaisons approfondies
+- 🖥️ **Outils multi-PC** (gérer et piloter plusieurs machines à distance) et **support prioritaire**
+
+> En clair : **optimiser ton PC, c'est gratuit.** Tu paies seulement si tu veux **sauvegarder, synchroniser et suivre** tout ça dans le temps et entre plusieurs machines.
 
 ---
 
