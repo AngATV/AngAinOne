@@ -2,82 +2,64 @@
 
 # AngAinOne
 
-**L'atelier complet de ton PC gaming.**
-Debloat Windows, pilotes GPU, réglages BIOS, tests de perf datés et vitrine partageable — le tout réversible et signé.
+### Ton PC, réglé pour le jeu. Gratuit.
 
-[![Version](https://img.shields.io/github/v/release/AngATV/AngAinOne?label=version&color=2fa88a)](https://github.com/AngATV/AngAinOne/releases/latest)
-[![Windows 11](https://img.shields.io/badge/Windows-11%20(64--bit)-0a7bc4)](https://github.com/AngATV/AngAinOne/releases/latest)
-[![Signé AngATV](https://img.shields.io/badge/signé-AngATV%20(Authenticode)-2fa88a)](#sécurité--confiance)
+**Plus de FPS, moins de lag, un Windows enfin propre — et tu peux tout annuler quand tu veux.**
+
+[![Dernière version](https://img.shields.io/github/v/release/AngATV/AngAinOne?label=version&color=2fa88a)](https://github.com/AngATV/AngAinOne/releases/latest)
+[![Windows 11](https://img.shields.io/badge/pour-Windows%2011-0a7bc4)](https://github.com/AngATV/AngAinOne/releases/latest)
+[![Gratuit](https://img.shields.io/badge/prix-gratuit-2fa88a)](https://github.com/AngATV/AngAinOne/releases/latest)
 [![anga.tv](https://img.shields.io/badge/site-anga.tv-1f2733)](https://anga.tv)
 
-### [⬇ Télécharger la dernière version](https://github.com/AngATV/AngAinOne/releases/latest)
+## [⬇ Télécharger maintenant](https://github.com/AngATV/AngAinOne/releases/latest)
 
 </div>
 
 ---
 
-## Téléchargement
+## Ce que tu vas pouvoir faire
 
-Un seul fichier à télécharger : **`AngAinOne-win-Setup.exe`** (sur la [dernière release](https://github.com/AngATV/AngAinOne/releases/latest)).
+🎮 **Gagner des FPS, pour de vrai**
+Optimise Windows et tes pilotes pour le jeu. Après chaque partie, vois tes FPS, tes chutes d'image et tes températures — **et ce qui les a causées**. Fini de deviner pourquoi ça rame.
 
-| Fichier | Rôle |
-|---|---|
-| **`AngAinOne-win-Setup.exe`** | L'installeur : installe l'app + le service, et gère les mises à jour automatiques. |
-| `AngAinOne-win-Setup.exe.sha256` | Empreinte SHA-256 de l'installeur, pour vérifier l'intégrité de ton téléchargement. |
-| `*.nupkg` / `*.json` | Servent aux mises à jour automatiques — **à ne pas distribuer**. |
+🧹 **Retrouver un Windows propre**
+Vire les applis inutiles préinstallées, reprends la main sur ce qui se lance au démarrage, libère de l'espace disque. Ton PC respire enfin.
 
-L'installeur est **signé Authenticode** (`CN=AngATV`) et **horodaté**. Une fois installée, l'app se met à jour **toute seule** — tu ne télécharges le Setup qu'une fois.
+🖥️ **Régler ton matériel au top**
+Tes pilotes GPU (NVIDIA, AMD, Intel) installés proprement, ton HDR, ton 144 Hz, ta VRR, ton alimentation et même ton BIOS — réglés comme il faut, guidé, sans prise de tête.
 
----
+🏆 **Mesurer et te comparer**
+Teste les performances de ton PC (processeur, mémoire, disque, carte graphique), suis tes progrès dans le temps, et compare-toi à la communauté.
 
-## Pourquoi AngAinOne
+💾 **Garder ta config parfaite**
+Sauvegarde tous tes réglages en un seul preset, rejoue-les sur un autre PC, ou importe ceux des autres joueurs.
 
-- **Réversible** — chaque optimisation conserve l'état Windows d'avant. Un clic pour tout annuler, et la désinstallation garde tes sauvegardes au lieu de les effacer.
-- **Mesuré** — FPS, frametime, 1 % low, températures et goulots d'étranglement capturés image par image (PresentMon + capteurs matériels). Des chiffres datés, pas des promesses.
-- **Sûr** — binaires signés, mises à jour vérifiées, aucun pilote installé sans ton accord. Ton compte te suit d'un PC à l'autre.
-
----
-
-## Ce qu'il y a dedans
-
-**Windows** — Optimisations réversibles · Démarrage · Nettoyage & réparation · Personnalisation · Réseau (DNS, latence)
-
-**Applications** — Installer (winget) · Désinstaller · Debloat Windows
-
-**Matériel** — Pilotes GPU (NVIDIA / AMD / Intel) · Réglages 3D · Écrans (HDR, VRR) · Alimentation · Disques · USB · BIOS
-
-**Gaming** — Jeux (configs conseillées) · Sessions de jeu (FPS, à-coups, températures par partie) · Test de perf (CPU / mémoire / stockage / GPU) · Streaming · DLSS
-
-**Presets** — enregistre, rejoue et partage une configuration complète, synchronisée avec ton compte.
-
-**Diagnostic** — triangle défaut / recommandé / courant sur chaque réglage · Plantages (lecture des écrans bleus) · Logs du service en clair.
+🩺 **Savoir ce qui cloche**
+Un diagnostic clair de chaque réglage, et quand ton PC plante, AngAinOne te dit **pourquoi**.
 
 ---
 
-## Sécurité & confiance
+## Pourquoi tu peux y aller les yeux fermés
 
-- **Signature** — chaque binaire est signé Authenticode par **AngATV** et horodaté.
-- **Mises à jour** — le service se met à jour lui-même, signature contrôlée, sans intervention.
-- **Pilotes** — le pilote de capteurs bas niveau (PawnIO) ne s'installe **que si tu l'acceptes**.
-- **Réversibilité** — l'état d'origine est conservé ; la désinstallation ne détruit rien.
-- **Compte** — requis pour retrouver tes données (benchmarks, sessions, presets) sur [anga.tv](https://anga.tv).
-
----
-
-## Installation
-
-1. Lance **`AngAinOne-win-Setup.exe`**.
-2. Au **premier lancement**, accepte l'**UAC** : le service Windows s'installe, puis l'assistant se lance (winget, RTSS optionnel).
-3. Les versions suivantes se mettent à jour **dans l'app**, sans réinstaller.
-
-## Configuration requise
-
-**Windows 11** (64-bit).
+- **C'est gratuit.**
+- **Tu peux tout annuler.** Ce que l'app change, un clic le remet comme avant. Impossible de casser ton Windows.
+- **C'est sûr.** L'app est signée — Windows sait qu'elle vient bien de nous — elle se met à jour toute seule, et n'installe jamais rien dans ton dos.
+- **Tes données te suivent.** Connecte-toi et retrouve tes tests, tes sessions de jeu et tes presets sur [anga.tv](https://anga.tv), depuis n'importe quel PC.
 
 ---
 
 <div align="center">
 
-**[anga.tv](https://anga.tv)** · Éditeur **AngATV**
+## Prêt ?
+
+### [⬇ Télécharger AngAinOne](https://github.com/AngATV/AngAinOne/releases/latest)
+
+Un seul fichier à lancer. Installe, connecte-toi, c'est parti — les mises à jour se font toutes seules ensuite.
+
+<sub>Windows 11 · un fichier `.sha256` accompagne l'installeur si tu veux vérifier que ton téléchargement est intact.</sub>
+
+<br>
+
+Fait par des joueurs, pour des joueurs · **[anga.tv](https://anga.tv)** · AngATV
 
 </div>
