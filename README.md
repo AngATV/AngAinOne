@@ -48,6 +48,25 @@ Un diagnostic clair de chaque réglage, et quand ton PC plante, AngAinOne te dit
 
 ---
 
+## Qui est derrière AngAinOne
+
+Salut, moi c'est **AngA**. Ça fait **plus de 20 ans** que je règle, dépanne et optimise des PC — et une grande partie à le faire pour les autres.
+
+J'ai optimisé les machines de **milliers de joueurs**, dont certains des **plus gros créateurs sur Twitch et YouTube**. Tout ce que je faisais à la main, réglage par réglage, chez les gens : c'est exactement ce qu'AngAinOne fait pour toi aujourd'hui, en quelques clics — et sans rien casser.
+
+Sur mes chaînes, je partage depuis des années des **tutos d'optimisation de A à Z** selon ton usage, et une équipe donne un coup de main pour régler les PC au cas par cas. **AngAinOne, c'est l'aboutissement de tout ça : mon métier, dans une app.**
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-tutos%20d'optimisation-ff0000)](https://www.youtube.com/channel/UCTn6N5YQG0LzVWt7qST7G1Q)
+[![Twitch](https://img.shields.io/badge/Twitch-en%20live-9146ff)](https://www.twitch.tv/anga_tv)
+[![X](https://img.shields.io/badge/X-@AngA__TV-1f2733)](https://x.com/AngA_TV)
+[![anga.tv](https://img.shields.io/badge/site-anga.tv-2fa88a)](https://anga.tv)
+
+</div>
+
+---
+
 <div align="center">
 
 ## Prêt ?
